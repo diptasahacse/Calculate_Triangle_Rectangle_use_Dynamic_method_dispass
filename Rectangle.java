@@ -1,6 +1,3 @@
-
-package Project;
-
 public class Rectangle extends Super{
     
     double base,hight;
