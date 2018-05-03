@@ -1,6 +1,3 @@
-
-package Project;
-
 public class Super{
     
     
