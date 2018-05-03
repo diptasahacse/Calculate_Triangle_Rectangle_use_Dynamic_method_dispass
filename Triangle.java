@@ -1,6 +1,4 @@
 
-package Project;
-
 public class Triangle extends Super{
     
     double length,weight;
